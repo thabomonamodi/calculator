@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="CalculatorTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-02-12T11:29:54" hostname="umuzi-admin" time="0.006">
+<testsuite name="CalculatorTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-02-13T06:28:57" hostname="umuzi-admin" time="0.008">
   <properties/>
-  <testcase name="addTest" classname="CalculatorTest" time="0.005"/>
+  <testcase name="addTest" classname="CalculatorTest" time="0.007"/>
   <testcase name="multiplyTest" classname="CalculatorTest" time="0.0"/>
   <system-out><![CDATA[4
 -3
